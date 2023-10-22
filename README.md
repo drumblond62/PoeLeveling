@@ -1,1 +1,1 @@
-<center>Актовете на Path of exile</center>
+<center>#Актовете на Path of exile</center>
